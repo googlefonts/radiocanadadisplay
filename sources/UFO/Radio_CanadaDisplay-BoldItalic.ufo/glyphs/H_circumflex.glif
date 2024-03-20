@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="714"/>
+  <unicode hex="0124"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="727" y="690" type="line"/>
+      <point x="573" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="423" type="line"/>
+      <point x="116" y="278" type="line"/>
+      <point x="571" y="278" type="line"/>
+      <point x="602" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="735" type="line"/>
+      <point x="374" y="735" type="line"/>
+      <point x="489" y="812" type="line"/>
+      <point x="511" y="850" type="line"/>
+      <point x="382" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="735" type="line"/>
+      <point x="550" y="850" type="line"/>
+      <point x="421" y="850" type="line"/>
+      <point x="437" y="812" type="line"/>
+      <point x="518" y="735" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

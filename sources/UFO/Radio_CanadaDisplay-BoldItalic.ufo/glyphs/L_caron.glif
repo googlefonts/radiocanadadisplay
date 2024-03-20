@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="544"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="422" y="690" type="line"/>
+      <point x="356" y="383" type="line"/>
+      <point x="444" y="383" type="line"/>
+      <point x="572" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="145" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="473" y="145" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

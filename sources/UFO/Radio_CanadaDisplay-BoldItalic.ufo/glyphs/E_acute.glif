@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="617"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="419" type="line"/>
+      <point x="117" y="282" type="line"/>
+      <point x="522" y="282" type="line"/>
+      <point x="551" y="419" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="145" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="540" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="690" type="line"/>
+      <point x="173" y="545" type="line"/>
+      <point x="621" y="545" type="line"/>
+      <point x="652" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="735" type="line"/>
+      <point x="462" y="735" type="line"/>
+      <point x="638" y="850" type="line"/>
+      <point x="465" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="278"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="735" type="line"/>
+      <point x="387" y="735" type="line"/>
+      <point x="412" y="850" type="line"/>
+      <point x="82" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,91 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CAT;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn MOL;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn TAT;
+languagesystem latn TRK;
+
+
+@proportional = [zero one two three four five six seven eight nine];
+@tabular = [zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab];
+@punctProp = [space period comma colon semicolon];
+@punctTab = [space.tab period.tab comma.tab colon.tab semicolon.tab];
+
+feature locl {
+    
+    script latn;
+        language NLD exclude_dflt;
+            sub I J by IJ;
+            sub i j by ij;
+            sub Iacute J by IJacute;
+            sub iacute j by ijacute;
+        language CAT exclude_dflt;
+            sub  L' periodcentered' L by Ldot;
+            sub  l' periodcentered' l by ldot;
+        language ROM exclude_dflt;
+            lookup cedilla_commaaccent {
+                sub Scedilla by Scommaaccent;
+                sub scedilla by scommaaccent;
+                sub Tcedilla by Tcommaaccent;
+                sub tcedilla by tcommaaccent;
+            } cedilla_commaaccent;
+        language MOL exclude_dflt;
+            lookup cedilla_commaaccent;
+        language TRK exclude_dflt;
+            lookup ITRK {
+                sub i by i.trk;
+            } ITRK;
+        language AZE exclude_dflt;
+            lookup ITRK;
+        language CRT exclude_dflt;
+            lookup ITRK;
+        language KAZ exclude_dflt;
+            lookup ITRK;
+        language TAT exclude_dflt;
+            lookup ITRK;
+            
+} locl;
+
+
+feature liga {
+    
+    sub f f i by f_f_i;
+    sub f f ij by f_f_ij;
+    sub f f l by f_f_l;
+    sub f f by f_f;
+    sub f i by f_i;
+    sub f ij by f_ij;
+    sub f l by f_l;    
+    
+} liga ;
+
+feature tnum {
+    
+    lookup FiguresTab {
+        sub @proportional by @tabular;
+    } FiguresTab;
+    
+    lookup PunctuationTab {
+        sub @punctProp' @tabular by @punctTab;
+        sub @tabular @punctProp' by @punctTab;
+    } PunctuationTab;
+    
+} tnum ;
+
+feature pnum {
+    
+    lookup FiguresProp {
+        sub @tabular by @proportional;
+    } FiguresProp;
+    
+    lookup PunctuationProp {
+        sub @punctTab' @proportional by @punctProp;
+        sub @proportional @punctTab' by @punctProp;
+    } PunctuationProp;
+    
+} pnum ;

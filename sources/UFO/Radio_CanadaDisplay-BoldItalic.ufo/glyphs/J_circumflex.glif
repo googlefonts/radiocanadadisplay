@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="585"/>
+  <unicode hex="0134"/>
+  <outline>
+    <contour>
+      <point x="-17" y="202" type="line"/>
+      <point x="-8" y="66"/>
+      <point x="84" y="-14"/>
+      <point x="215" y="-14" type="curve"/>
+      <point x="379" y="-14"/>
+      <point x="473" y="76"/>
+      <point x="511" y="253" type="curve" smooth="yes"/>
+      <point x="604" y="690" type="line"/>
+      <point x="449" y="690" type="line"/>
+      <point x="357" y="261" type="line" smooth="yes"/>
+      <point x="340" y="180"/>
+      <point x="292" y="132"/>
+      <point x="225" y="132" type="curve"/>
+      <point x="165" y="132"/>
+      <point x="133" y="173"/>
+      <point x="128" y="241" type="curve"/>
+    </contour>
+    <contour>
+      <point x="341" y="735" type="line"/>
+      <point x="468" y="735" type="line"/>
+      <point x="583" y="812" type="line"/>
+      <point x="605" y="850" type="line"/>
+      <point x="476" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="729" y="735" type="line"/>
+      <point x="644" y="850" type="line"/>
+      <point x="515" y="850" type="line"/>
+      <point x="531" y="812" type="line"/>
+      <point x="612" y="735" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

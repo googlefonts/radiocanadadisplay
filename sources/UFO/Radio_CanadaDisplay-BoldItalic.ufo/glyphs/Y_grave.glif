@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ygrave" format="2">
+  <advance width="640"/>
+  <unicode hex="1EF2"/>
+  <outline>
+    <contour>
+      <point x="236" y="220" type="line"/>
+      <point x="349" y="343" type="line"/>
+      <point x="234" y="690" type="line"/>
+      <point x="73" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="343" type="line"/>
+      <point x="353" y="221" type="line"/>
+      <point x="717" y="690" type="line"/>
+      <point x="536" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="405" y="381" type="line"/>
+      <point x="251" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="475" y="735" type="line"/>
+      <point x="397" y="850" type="line"/>
+      <point x="236" y="850" type="line"/>
+      <point x="365" y="735" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

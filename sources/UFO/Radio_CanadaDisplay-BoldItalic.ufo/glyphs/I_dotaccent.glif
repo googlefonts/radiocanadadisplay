@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="278"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="291" y="690" type="line"/>
+      <point x="136" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="741" type="curve"/>
+      <point x="279" y="741"/>
+      <point x="315" y="771"/>
+      <point x="315" y="817" type="curve"/>
+      <point x="315" y="856"/>
+      <point x="288" y="881"/>
+      <point x="244" y="881" type="curve"/>
+      <point x="199" y="881"/>
+      <point x="163" y="851"/>
+      <point x="163" y="804" type="curve"/>
+      <point x="163" y="766"/>
+      <point x="190" y="741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

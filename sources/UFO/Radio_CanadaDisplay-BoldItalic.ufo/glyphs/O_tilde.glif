@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="727"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="400" y="558" type="curve"/>
+      <point x="496" y="558"/>
+      <point x="533" y="497"/>
+      <point x="533" y="412" type="curve"/>
+      <point x="533" y="258"/>
+      <point x="447" y="132"/>
+      <point x="327" y="132" type="curve"/>
+      <point x="231" y="132"/>
+      <point x="194" y="193"/>
+      <point x="194" y="278" type="curve"/>
+      <point x="194" y="432"/>
+      <point x="280" y="558"/>
+    </contour>
+    <contour>
+      <point x="422" y="704" type="curve"/>
+      <point x="192" y="704"/>
+      <point x="31" y="506"/>
+      <point x="31" y="267" type="curve"/>
+      <point x="31" y="107"/>
+      <point x="133" y="-14"/>
+      <point x="305" y="-14" type="curve"/>
+      <point x="536" y="-14"/>
+      <point x="696" y="185"/>
+      <point x="696" y="424" type="curve"/>
+      <point x="696" y="584"/>
+      <point x="595" y="704"/>
+    </contour>
+    <contour>
+      <point x="518" y="735" type="curve"/>
+      <point x="581" y="735"/>
+      <point x="628" y="781"/>
+      <point x="640" y="854" type="curve"/>
+      <point x="556" y="854" type="line"/>
+      <point x="555" y="828"/>
+      <point x="539" y="817"/>
+      <point x="522" y="817" type="curve"/>
+      <point x="491" y="817"/>
+      <point x="467" y="854"/>
+      <point x="402" y="854" type="curve"/>
+      <point x="338" y="854"/>
+      <point x="291" y="808"/>
+      <point x="280" y="735" type="curve"/>
+      <point x="364" y="735" type="line"/>
+      <point x="365" y="761"/>
+      <point x="381" y="772"/>
+      <point x="398" y="772" type="curve"/>
+      <point x="431" y="772"/>
+      <point x="453" y="735"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>

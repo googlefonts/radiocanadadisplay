@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="335"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="188" y="447" type="curve"/>
+      <point x="156" y="447"/>
+      <point x="138" y="473"/>
+      <point x="138" y="514" type="curve"/>
+      <point x="138" y="574"/>
+      <point x="173" y="627"/>
+      <point x="216" y="627" type="curve"/>
+      <point x="248" y="627"/>
+      <point x="269" y="601"/>
+      <point x="269" y="560" type="curve"/>
+      <point x="269" y="500"/>
+      <point x="231" y="447"/>
+    </contour>
+    <contour>
+      <point x="206.0" y="698.0" type="curve"/>
+      <point x="120.39285714285711" y="698.0"/>
+      <point x="56.0" y="609.0"/>
+      <point x="56" y="508" type="curve"/>
+      <point x="56.0" y="432.0"/>
+      <point x="93" y="376.0"/>
+      <point x="153.0" y="376.0" type="curve"/>
+      <point x="235" y="376.0"/>
+      <point x="296.0" y="472.02631578947376"/>
+      <point x="296.0" y="581.0" type="curve"/>
+      <point x="296.0" y="649.2500000000001"/>
+      <point x="261.38461538461524" y="698.0"/>
+    </contour>
+    <contour>
+      <point x="230" y="384" type="line"/>
+      <point x="310" y="384" type="line"/>
+      <point x="375" y="690" type="line"/>
+      <point x="295" y="690" type="line"/>
+      <point x="275" y="598" type="line"/>
+      <point x="277" y="531" type="line"/>
+      <point x="246" y="462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

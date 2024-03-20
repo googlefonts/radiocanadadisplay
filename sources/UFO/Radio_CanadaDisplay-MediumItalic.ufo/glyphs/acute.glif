@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="499"/>
+  <unicode hex="00B4"/>
+  <anchor x="288.6549776851117" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="245" y="585" type="line"/>
+      <point x="334" y="585" type="line"/>
+      <point x="471" y="725" type="line"/>
+      <point x="345" y="725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

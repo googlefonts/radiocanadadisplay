@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="175"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="66" y="384" type="line"/>
+      <point x="157" y="384" type="line"/>
+      <point x="222" y="690" type="line"/>
+      <point x="146" y="690" type="line"/>
+      <point x="110" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="574" type="line"/>
+      <point x="142" y="574" type="line"/>
+      <point x="146" y="690" type="line"/>
+      <point x="130" y="647"/>
+      <point x="107" y="634"/>
+      <point x="60" y="631" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+      <key>ufoStretch.beamYPositionForStretchedGlyph</key>
+      <real>114.20506673863517</real>
+    </dict>
+  </lib>
+</glyph>

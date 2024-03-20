@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="180" y="148" type="line"/>
+      <point x="115" y="-159" type="line"/>
+      <point x="213" y="-159" type="line"/>
+      <point x="340" y="148" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="369" type="curve"/>
+      <point x="370" y="369"/>
+      <point x="412" y="406"/>
+      <point x="412" y="464" type="curve"/>
+      <point x="412" y="512"/>
+      <point x="381" y="544"/>
+      <point x="329" y="544" type="curve"/>
+      <point x="277" y="544"/>
+      <point x="235" y="506"/>
+      <point x="235" y="448" type="curve"/>
+      <point x="235" y="400"/>
+      <point x="266" y="369"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

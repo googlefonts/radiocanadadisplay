@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="580"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="417" y="690" type="line"/>
+      <point x="312" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="690" type="line"/>
+      <point x="71" y="594" type="line"/>
+      <point x="616" y="594" type="line"/>
+      <point x="637" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="845" type="line"/>
+      <point x="474" y="845" type="line"/>
+      <point x="353" y="766" type="line"/>
+      <point x="338" y="735" type="line"/>
+      <point x="443" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="845" type="line"/>
+      <point x="305" y="735" type="line"/>
+      <point x="410" y="735" type="line"/>
+      <point x="396" y="766" type="line"/>
+      <point x="308" y="845" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3022,0.3206,0.9984,1</string>
+    </dict>
+  </lib>
+</glyph>
