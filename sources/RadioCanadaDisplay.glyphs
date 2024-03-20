@@ -19,20 +19,21 @@ value = 1;
 }
 );
 date = "2024-03-20 13:28:04 +0000";
-familyName = "Radio-Canada Display";
+familyName = "Radio Canada Display";
 featurePrefixes = (
 {
+automatic = 1;
 code = "languagesystem DFLT dflt;
+
 languagesystem latn dflt;
 languagesystem latn AZE;
-languagesystem latn CAT;
 languagesystem latn CRT;
 languagesystem latn KAZ;
-languagesystem latn MOL;
-languagesystem latn NLD;
-languagesystem latn ROM;
 languagesystem latn TAT;
 languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
 ";
 name = Languagesystems;
 }
@@ -11711,7 +11712,7 @@ color = 10;
 glyphname = Wacute;
 kernLeft = W;
 kernRight = W;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -11720,7 +11721,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (241,0);
+pos = (243,0);
 ref = acute.cap;
 }
 );
@@ -11747,7 +11748,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (212,0);
+pos = (211,0);
 ref = acute.cap;
 }
 );
@@ -11761,7 +11762,7 @@ color = 10;
 glyphname = Wcircumflex;
 kernLeft = W;
 kernRight = W;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -11770,7 +11771,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (241,0);
+pos = (243,0);
 ref = circumflex.cap;
 }
 );
@@ -11797,7 +11798,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (212,0);
+pos = (211,0);
 ref = circumflex.cap;
 }
 );
@@ -11811,7 +11812,7 @@ color = 10;
 glyphname = Wdieresis;
 kernLeft = W;
 kernRight = W;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -11820,7 +11821,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (241,0);
+pos = (243,0);
 ref = dieresis.cap;
 }
 );
@@ -11847,7 +11848,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (212,0);
+pos = (211,0);
 ref = dieresis.cap;
 }
 );
@@ -11861,7 +11862,7 @@ color = 10;
 glyphname = Wgrave;
 kernLeft = W;
 kernRight = W;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -11870,7 +11871,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (241,0);
+pos = (243,0);
 ref = grave.cap;
 }
 );
@@ -11897,7 +11898,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (212,0);
+pos = (211,0);
 ref = grave.cap;
 }
 );
@@ -12656,7 +12657,7 @@ color = 10;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -12665,7 +12666,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (58,0);
+pos = (59,0);
 ref = acute.cap;
 }
 );
@@ -12692,7 +12693,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (64,0);
+pos = (59,0);
 ref = acute.cap;
 }
 );
@@ -12706,7 +12707,7 @@ color = 10;
 glyphname = Zcaron;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -12715,7 +12716,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (58,0);
+pos = (59,0);
 ref = caron.cap;
 }
 );
@@ -12742,7 +12743,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (64,0);
+pos = (59,0);
 ref = caron.cap;
 }
 );
@@ -12756,7 +12757,7 @@ color = 10;
 glyphname = Zdotaccent;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -12765,7 +12766,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (58,0);
+pos = (59,0);
 ref = dotaccent.cap;
 }
 );
@@ -12792,7 +12793,7 @@ shapes = (
 ref = Z;
 },
 {
-pos = (64,0);
+pos = (59,0);
 ref = dotaccent.cap;
 }
 );
@@ -18126,7 +18127,7 @@ color = 10;
 glyphname = hcircumflex;
 kernLeft = l;
 kernRight = n;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -18135,7 +18136,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (-122,25);
+pos = (43,25);
 ref = circumflex.cap;
 }
 );
@@ -18162,7 +18163,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (-135,25);
+pos = (37,25);
 ref = circumflex.cap;
 }
 );
@@ -18389,10 +18390,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = acute;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 237;
@@ -18438,10 +18440,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = breve;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 301;
@@ -18487,10 +18490,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = circumflex;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 238;
@@ -18536,10 +18540,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = dieresis;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 239;
@@ -18655,10 +18660,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = grave;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 236;
@@ -18704,10 +18710,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = macron;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 299;
@@ -18935,10 +18942,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-135,0);
 ref = tilde;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 297;
@@ -19512,10 +19520,11 @@ shapes = (
 ref = jdotless;
 },
 {
+pos = (-135,0);
 ref = circumflex;
 }
 );
-width = 500;
+width = 230;
 }
 );
 unicode = 309;
@@ -26235,7 +26244,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (135,0);
+pos = (134,0);
 ref = acute;
 }
 );
@@ -26285,7 +26294,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (135,0);
+pos = (134,0);
 ref = circumflex;
 }
 );
@@ -26335,7 +26344,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (135,0);
+pos = (134,0);
 ref = dieresis;
 }
 );
@@ -26385,7 +26394,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (135,0);
+pos = (134,0);
 ref = grave;
 }
 );
@@ -27153,7 +27162,7 @@ color = 10;
 glyphname = zacute;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -27162,7 +27171,6 @@ shapes = (
 ref = z;
 },
 {
-pos = (-1,0);
 ref = acute;
 }
 );
@@ -27189,7 +27197,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (1,0);
+pos = (-6,0);
 ref = acute;
 }
 );
@@ -27203,7 +27211,7 @@ color = 10;
 glyphname = zcaron;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -27212,7 +27220,6 @@ shapes = (
 ref = z;
 },
 {
-pos = (-1,0);
 ref = caron;
 }
 );
@@ -27239,7 +27246,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (1,0);
+pos = (-6,0);
 ref = caron;
 }
 );
@@ -27253,7 +27260,7 @@ color = 10;
 glyphname = zdotaccent;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-03-20 13:51:41 +0000";
+lastChange = "2024-03-20 14:00:28 +0000";
 layers = (
 {
 layerId = m001;
@@ -27262,7 +27269,6 @@ shapes = (
 ref = z;
 },
 {
-pos = (-1,0);
 ref = dotaccent;
 }
 );
@@ -27289,7 +27295,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (1,0);
+pos = (-6,0);
 ref = dotaccent;
 }
 );
