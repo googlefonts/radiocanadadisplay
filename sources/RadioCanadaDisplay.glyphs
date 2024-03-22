@@ -19656,7 +19656,7 @@ color = 6;
 glyphname = a;
 kernLeft = a;
 kernRight = n;
-lastChange = "2024-03-22 12:26:09 +0000";
+lastChange = "2024-03-22 13:29:28 +0000";
 layers = (
 {
 anchors = (
@@ -36531,7 +36531,7 @@ color = 6;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
-lastChange = "2024-03-22 12:51:59 +0000";
+lastChange = "2024-03-22 13:30:23 +0000";
 layers = (
 {
 anchors = (
@@ -72971,15 +72971,12 @@ slash = -10;
 "@MMK_R_I" = -10;
 };
 "@MMK_L_t" = {
-"@MMK_R_H" = 160;
 "@MMK_R_L" = -10;
 "@MMK_R_M" = 10;
-"@MMK_R_a" = 120;
-"@MMK_R_n" = 140;
-"@MMK_R_o" = 100;
 };
 "@MMK_L_tcaron" = {
 "@MMK_R_H" = 120;
+"@MMK_R_a" = 120;
 "@MMK_R_l" = 140;
 "@MMK_R_n" = 120;
 "@MMK_R_o" = 80;
