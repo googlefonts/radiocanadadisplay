@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tf" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="247" y="-10" type="curve"/>
+      <point x="412" y="-10"/>
+      <point x="520" y="124"/>
+      <point x="520" y="254" type="curve"/>
+      <point x="520" y="362"/>
+      <point x="441" y="428"/>
+      <point x="353" y="428" type="curve"/>
+      <point x="335" y="428"/>
+      <point x="333" y="425"/>
+      <point x="313" y="414" type="curve"/>
+      <point x="301" y="381" type="line"/>
+      <point x="586" y="623" type="line"/>
+      <point x="466" y="638" type="line"/>
+      <point x="219" y="417" type="line"/>
+      <point x="205" y="352" type="line"/>
+      <point x="282" y="352" type="line"/>
+      <point x="370" y="352"/>
+      <point x="409" y="311"/>
+      <point x="409" y="240" type="curve"/>
+      <point x="409" y="176"/>
+      <point x="346" y="85"/>
+      <point x="251" y="85" type="curve"/>
+      <point x="155" y="85"/>
+      <point x="123" y="157"/>
+      <point x="128" y="224" type="curve"/>
+      <point x="22" y="201" type="line"/>
+      <point x="21" y="69"/>
+      <point x="103" y="-10"/>
+    </contour>
+    <contour>
+      <point x="120" y="590" type="line"/>
+      <point x="499" y="590" type="line"/>
+      <point x="586" y="623" type="line"/>
+      <point x="601" y="690" type="line"/>
+      <point x="142" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-21 14:00:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

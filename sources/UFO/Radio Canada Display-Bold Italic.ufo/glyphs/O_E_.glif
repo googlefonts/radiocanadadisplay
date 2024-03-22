@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1004"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="304" y="0" type="curve"/>
+      <point x="488" y="0" type="line"/>
+      <point x="519" y="145" type="line"/>
+      <point x="324" y="145" type="line"/>
+      <point x="228" y="145"/>
+      <point x="193" y="202"/>
+      <point x="193" y="278" type="curve"/>
+      <point x="193" y="424"/>
+      <point x="277" y="545"/>
+      <point x="412" y="545" type="curve"/>
+      <point x="604" y="545" type="line"/>
+      <point x="635" y="690" type="line"/>
+      <point x="433" y="690" type="line"/>
+      <point x="187" y="690"/>
+      <point x="32" y="497"/>
+      <point x="32" y="266" type="curve"/>
+      <point x="32" y="115"/>
+      <point x="131" y="0"/>
+    </contour>
+    <contour>
+      <point x="469" y="0" type="line"/>
+      <point x="896" y="0" type="line"/>
+      <point x="927" y="145" type="line"/>
+      <point x="500" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="401" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="703" y="690" type="line"/>
+      <point x="548" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="282" type="line"/>
+      <point x="909" y="282" type="line"/>
+      <point x="938" y="419" type="line"/>
+      <point x="558" y="419" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="545" type="line"/>
+      <point x="1008" y="545" type="line"/>
+      <point x="1039" y="690" type="line"/>
+      <point x="616" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-21 14:00:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

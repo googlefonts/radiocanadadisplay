@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="229"/>
+  <anchor x="42" y="0" name="bottom"/>
+  <anchor x="193.978" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="-8" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="244" y="715" type="line"/>
+      <point x="144" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

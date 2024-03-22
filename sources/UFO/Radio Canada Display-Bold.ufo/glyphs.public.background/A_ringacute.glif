@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="675"/>
+  <outline>
+    <contour>
+      <point x="-73" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="450" y="690" type="line"/>
+      <point x="293" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="158" type="line"/>
+      <point x="482" y="158" type="line"/>
+      <point x="511" y="295" type="line"/>
+      <point x="143" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="530" y="690" type="line"/>
+      <point x="380" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="735" type="curve"/>
+      <point x="500" y="735"/>
+      <point x="543" y="784"/>
+      <point x="543" y="837" type="curve"/>
+      <point x="543" y="883"/>
+      <point x="509" y="917"/>
+      <point x="449" y="917" type="curve"/>
+      <point x="379" y="917"/>
+      <point x="336" y="868"/>
+      <point x="336" y="815" type="curve"/>
+      <point x="336" y="769"/>
+      <point x="370" y="735"/>
+    </contour>
+    <contour>
+      <point x="437" y="800" type="curve"/>
+      <point x="419" y="800"/>
+      <point x="409" y="808"/>
+      <point x="409" y="823" type="curve"/>
+      <point x="409" y="839"/>
+      <point x="422" y="852"/>
+      <point x="442" y="852" type="curve"/>
+      <point x="460" y="852"/>
+      <point x="470" y="844"/>
+      <point x="470" y="829" type="curve"/>
+      <point x="470" y="813"/>
+      <point x="457" y="800"/>
+    </contour>
+    <contour>
+      <point x="410" y="934" type="line"/>
+      <point x="525" y="934" type="line"/>
+      <point x="662" y="1017" type="line"/>
+      <point x="500" y="1017" type="line"/>
+    </contour>
+  </outline>
+</glyph>

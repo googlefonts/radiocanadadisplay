@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
+  <advance width="500"/>
+  <anchor x="177" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="146" y="-198" type="curve"/>
+      <point x="191" y="-198"/>
+      <point x="227" y="-166"/>
+      <point x="227" y="-117" type="curve"/>
+      <point x="227" y="-75"/>
+      <point x="200" y="-48"/>
+      <point x="156" y="-48" type="curve"/>
+      <point x="111" y="-48"/>
+      <point x="75" y="-80"/>
+      <point x="75" y="-130" type="curve"/>
+      <point x="75" y="-171"/>
+      <point x="102" y="-198"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-21 14:00:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

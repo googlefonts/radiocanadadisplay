@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="254" y="690" type="line"/>
+      <point x="149" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="512" y="96" type="line"/>
+      <point x="72" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="306" type="line"/>
+      <point x="492" y="306" type="line"/>
+      <point x="512" y="402" type="line"/>
+      <point x="137" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="594" type="line"/>
+      <point x="613" y="594" type="line"/>
+      <point x="634" y="690" type="line"/>
+      <point x="199" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="735" type="curve"/>
+      <point x="454" y="735"/>
+      <point x="482" y="760"/>
+      <point x="482" y="795" type="curve"/>
+      <point x="482" y="827"/>
+      <point x="459" y="848"/>
+      <point x="425" y="848" type="curve"/>
+      <point x="387" y="848"/>
+      <point x="360" y="823"/>
+      <point x="360" y="785" type="curve"/>
+      <point x="360" y="756"/>
+      <point x="383" y="735"/>
+    </contour>
+  </outline>
+</glyph>

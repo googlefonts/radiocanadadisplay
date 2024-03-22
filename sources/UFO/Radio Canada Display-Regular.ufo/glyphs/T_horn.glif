@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="614"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="125" y="125" type="line"/>
+      <point x="329" y="125" type="line"/>
+      <point x="483" y="125"/>
+      <point x="584" y="210"/>
+      <point x="584" y="350" type="curve" smooth="yes"/>
+      <point x="584" y="490"/>
+      <point x="483" y="575"/>
+      <point x="329" y="575" type="curve"/>
+      <point x="125" y="575" type="line"/>
+      <point x="125" y="479" type="line"/>
+      <point x="319" y="479" type="line"/>
+      <point x="425" y="479"/>
+      <point x="475" y="437"/>
+      <point x="475" y="350" type="curve" smooth="yes"/>
+      <point x="475" y="264"/>
+      <point x="425" y="221"/>
+      <point x="319" y="221" type="curve"/>
+      <point x="125" y="221" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="690" type="line"/>
+      <point x="75" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-21 11:17:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>
