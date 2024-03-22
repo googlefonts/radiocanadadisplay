@@ -4,7 +4,7 @@
     axisOrder:
       - wght
     familyName: "Radio Canada Display"
-    buildStatic: false
+    buildStatic: true
     stat:
       RadioCanadaDisplay[wght].ttf:
       - name: Weight
