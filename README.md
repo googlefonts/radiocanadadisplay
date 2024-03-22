@@ -1,6 +1,7 @@
 
 # Radio-Canada Display Typeface
 
+![Image](documentation/image1.jpg)
 
 CBC/Radio-Canada is a Canadian Crown corporation serving as the national public radio and television broadcaster. The English- and French-language service units of the corporation are commonly known as CBC and Radio-Canada, respectively. 
 
@@ -13,6 +14,8 @@ Radio-canada Display has the following axes:
 Axis | Tag | Range | Default | Static Instances
 --- | --- | --- | --- | ---
 Weight | wght | 400 to 700 | 400 | Regular, Medium, Semibold, Bold
+
+![Image](documentation/image2.jpg)
 
 #### `wght` (Weight) Axis
 
