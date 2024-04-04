@@ -1,5 +1,5 @@
 {
-.appVersion = "3248";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -72673,15 +72673,6 @@ type = "italic angle";
 }
 );
 properties = (
-{
-key = compatibleFullNames;
-values = (
-{
-language = dflt;
-value = "Radio-Canada Display Medium Italic";
-}
-);
-},
 {
 key = copyrights;
 values = (
