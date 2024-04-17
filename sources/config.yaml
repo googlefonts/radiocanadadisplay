@@ -1,12 +1,12 @@
     sources:
-      - RadioCanadaDisplay.glyphs
-      - RadioCanadaDisplay-Italic.glyphs
+      - RadioCanadaBig.glyphs
+      - RadioCanadaBig-Italic.glyphs
     axisOrder:
       - wght
-    familyName: "Radio Canada Display"
+    familyName: "Radio Canada Big"
     buildStatic: true
     stat:
-      RadioCanadaDisplay[wght].ttf:
+      RadioCanadaBig[wght].ttf:
       - name: Weight
         tag: wght
         values:
@@ -27,7 +27,7 @@
           value: 0
           linkedValue: 1
           flags: 2
-      RadioCanadaDisplay-Italic[wght].ttf:
+      RadioCanadaBig-Italic[wght].ttf:
       - name: Weight
         tag: wght
         values:

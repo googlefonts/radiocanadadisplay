@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3251";
 .formatVersion = 3;
 axes = (
 {
@@ -26,7 +26,7 @@ value = 1;
 }
 );
 date = "2024-03-20 13:28:04 +0000";
-familyName = "Radio Canada Display";
+familyName = "Radio Canada Big";
 featurePrefixes = (
 {
 automatic = 1;
@@ -236,11 +236,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 995;
 },
 {
 name = typoDescender;
-value = -250;
+value = -305;
 },
 {
 name = typoLineGap;
@@ -248,11 +248,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 995;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -305;
 },
 {
 name = hheaLineGap;
@@ -311,11 +311,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 995;
 },
 {
 name = typoDescender;
-value = -250;
+value = -305;
 },
 {
 name = typoLineGap;
@@ -323,11 +323,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 995;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -305;
 },
 {
 name = hheaLineGap;
@@ -72678,7 +72678,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022 The Radio Canada Display Project Authors (https://github.com/googlefonts/radiocanadadisplay)";
+value = "Copyright 2022 The Radio Canada Big Project Authors (https://github.com/googlefonts/radiocanadadisplay)";
 }
 );
 },
